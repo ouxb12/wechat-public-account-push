@@ -109,24 +109,10 @@ export const config = {
     {
       name: "test2",
       id: "oqq5v6U8bXPo070vQNJVJoJUYk80",
-      useTemplateId: "m2aGR6OeggLpBU9oSZzv9ts-uhJLLOfi2pGMpYvVDBg	",
+      useTemplateId: "m2aGR6OeggLpBU9oSZzv9ts-uhJLLOfi2pGMpYvVDBg",
       province: "广东",
       city: "深圳"
-    },
-    {
-      name: "老婆3",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    },
-    // 你可以不断按格式往下增加
-    // ...
+    }
   ],
 
   /**
