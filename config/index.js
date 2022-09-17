@@ -62,9 +62,9 @@ export const config = {
       // 想要发送的人的名字
       name: "test1",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "",
+      id: "oqq5v6U8bXPo070vQNJVJoJUYk80",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "",
+      useTemplateId: "2vAmjKXU_hmOi0IDnDHtv8EAgjfCT5WPQg-3Aj0Ha2k",
       // 所在省份
       province: "广东",
       // 所在城市
@@ -95,9 +95,9 @@ export const config = {
       ]
     },
     {
-      name: "test1",
+      name: "test2",
       id: "oqq5v6U8bXPo070vQNJVJoJUYk80",
-      useTemplateId: "2vAmjKXU_hmOi0IDnDHtv8EAgjfCT5WPQg-3Aj0Ha2k",
+      useTemplateId: "m2aGR6OeggLpBU9oSZzv9ts-uhJLLOfi2pGMpYvVDBg",
       province: "广东",
       city: "茂名",
       horoscopeDate: '',
@@ -105,13 +105,6 @@ export const config = {
       openUrl: "https://wangxinleo.cn",
       festivals: [],
       customizedDateList: []
-    },
-    {
-      name: "test2",
-      id: "oqq5v6U8bXPo070vQNJVJoJUYk80",
-      useTemplateId: "m2aGR6OeggLpBU9oSZzv9ts-uhJLLOfi2pGMpYvVDBg",
-      province: "广东",
-      city: "深圳"
     }
   ],
 
