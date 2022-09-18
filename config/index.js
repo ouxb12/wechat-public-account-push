@@ -96,8 +96,8 @@ export const config = {
     },
     {
       name: "test2",
-      id: "oqq5v6U8bXPo070vQNJVJoJUYk80",
-      useTemplateId: "m2aGR6OeggLpBU9oSZzv9ts-uhJLLOfi2pGMpYvVDBg",
+      id: "oqq5v6f9_ehvNxZrvN-S5F6FkCbM",
+      useTemplateId: "pDM2J0HkXmcWVbqOz05JOFHAgMkO4FUlzeMiyJj8Z9c",
       province: "广东",
       city: "茂名",
       horoscopeDate: '',
