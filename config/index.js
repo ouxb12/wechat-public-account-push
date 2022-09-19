@@ -93,19 +93,19 @@ export const config = {
         // 退伍日
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
-    },
-    {
-      name: "test2",
-      id: "oqq5v6f9_ehvNxZrvN-S5F6FkCbM",
-      useTemplateId: "pDM2J0HkXmcWVbqOz05JOFHAgMkO4FUlzeMiyJj8Z9c",
-      province: "广东",
-      city: "茂名",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
-    }
+      },
+//     {
+//       name: "test2",
+//       id: "oqq5v6f9_ehvNxZrvN-S5F6FkCbM",
+//       useTemplateId: "pDM2J0HkXmcWVbqOz05JOFHAgMkO4FUlzeMiyJj8Z9c",
+//       province: "广东",
+//       city: "茂名",
+//       horoscopeDate: '',
+//       horoscopeDateType: '',
+//       openUrl: "https://wangxinleo.cn",
+//       festivals: [],
+//       customizedDateList: []
+//     }
   ],
 
   /**
